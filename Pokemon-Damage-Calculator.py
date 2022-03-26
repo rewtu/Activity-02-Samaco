@@ -14,6 +14,6 @@ other = 1
 
 Modifier = Targets * Weather * Badge * Critical * STAB * Type * Burn * other
 Modifier
-Damage = ((level * 2 / 5 + 2  * Power * A / D)/ 50 + 2 ) * Modifier
+Damage = (((level * 2 / 5 + 2 ) * Power * A / D)/ 50 + 2 ) * Modifier
 
 Damage
